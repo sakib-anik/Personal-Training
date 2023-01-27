@@ -1,0 +1,18 @@
+1.Open CMD
+2.DESKTOP file folder show
+3.Clear prompt screen
+4.Show the command description
+5.Create 3 folders
+6.Delete folders
+7.Create empty file
+8.Create file with text
+9.Delete file 
+10.Open file
+11.Open a txt document with an application
+12.Read text from a text file
+13.Add text in a text file
+14.Delete folder containing files
+15.Change drive
+16.Show hidden folders
+17.List hidden folders in a txt file
+18.Show all files and folders
